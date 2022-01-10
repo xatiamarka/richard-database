@@ -10,7 +10,8 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Profile Count](https://komarev.com/ghpvc/?username=richard-database&label=Project%20visits&color=blueviolet)&nbsp;
 
 # ÖNEMLİ NOT ⚠️
-- Ben database botunda kanal veya rol silindiğinde dağıttırmıyor veya loglatmıyorum guard botlarım logunu düştüğü ve otomatik olarak database botuna event yolladığı için bu tür -dertlerim olmuyor ama çoğu kişi database botunda rol silindiğinde otomatik rolü kurup dağıtmasını istiyor onun için `oto-dagitim.js` isimli event dosyası yaptım eğer otomatik kurmasını istiyorsanız, event dosyasını `src/Events` içine atmanız yeterli olur. tamamen otomatik çalışıcak şekilde yapıldı.
+- Ben database botunda kanal veya rol silindiğinde dağıttırmıyor veya loglatmıyorum guard botlarım logunu düştüğü ve otomatik olarak database botuna event yolladığı için bu tür -dertlerim olmuyor ama çoğu kişi database botunda rol silindiğinde otomatik rolü kurup dağıtmasını istiyor onun için `oto-dagitim.js` isimli event dosyası yaptım eğer otomatik kurmasını istiyorsanız, event dosyasını `src/Events` içine atmanız yeterli olur. tamamen otomatik çalışıcak şekilde yapıldı. örnek ss:
+![Discord_oLY49QGjvn](https://user-images.githubusercontent.com/97298322/148813187-c3ecd8d7-bec9-4570-8be8-307093fd2c80.png)
 - Kanal kurulum resminde gözüken `null` sorununu çözdüm ama resim değiştirmek istemediğim için böyle duruyor bilginize.
 - Kanal verisini kayıt ederken kanal açıklaması yoksa otomatik kendisi koyuyor isterseniz iptal edebilirsiniz.
 
