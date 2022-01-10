@@ -1,0 +1,659 @@
+{
+  "923979824207368202.916039023229825096": {
+    "name": "Public",
+    "position": 2,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "921681783215501312.916039023229825096": {
+    "name": "31",
+    "parentID": null,
+    "position": 1,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924336530531700757.916039023229825096": {
+    "name": "sleep",
+    "parentID": "923979824207368202",
+    "position": 2,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541607352426506.916039023229825096": {
+    "name": "ekip-log",
+    "parentID": "921759729242497024",
+    "position": 7,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541930804547604.916039023229825096": {
+    "name": "ceza-puan-log",
+    "parentID": "921759729242497024",
+    "position": 14,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924053157645025310.916039023229825096": {
+    "name": "- 31",
+    "parentID": "923979824207368202",
+    "position": 1,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541860113764402.916039023229825096": {
+    "name": "kurallar",
+    "parentID": "922541453413085204",
+    "position": 4,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922466993154695178.916039023229825096": {
+    "name": "zort",
+    "parentID": null,
+    "position": 2,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922911395929022505.916039023229825096": {
+    "name": "test",
+    "parentID": "921759729242497024",
+    "position": 19,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541962417012786.916039023229825096": {
+    "name": "rol-log",
+    "parentID": "921759729242497024",
+    "position": 15,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "923979902741524500.916039023229825096": {
+    "name": "Game",
+    "position": 5,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922485626484449300.916039023229825096": {
+    "name": "</>",
+    "parentID": null,
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "923979877445677067.916039023229825096": {
+    "name": "Register",
+    "position": 4,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922542056247804004.916039023229825096": {
+    "name": "mazaretli-log",
+    "parentID": "921759729242497024",
+    "position": 16,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "923980109122260992.916039023229825096": {
+    "name": "geym",
+    "parentID": "923979902741524500",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "921759757071699978.916039023229825096": {
+    "name": "voice-log",
+    "parentID": "921759729242497024",
+    "position": 0,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922582953178071071.916039023229825096": {
+    "name": "qwe",
+    "parentID": "922541453413085204",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "923979850941874217.916039023229825096": {
+    "name": "Streamer",
+    "position": 3,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922541893563330601.916039023229825096": {
+    "name": "market-log",
+    "parentID": "921759729242497024",
+    "position": 13,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "929457568336740442.916039023229825096": {
+    "name": "user-log",
+    "parentID": "929457565727871057",
+    "position": 1,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "927208371768164372.916039023229825096": {
+    "name": "guard",
+    "parentID": "921759729242497024",
+    "position": 21,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924614372146421800.916039023229825096": {
+    "name": "- 31",
+    "parentID": "924614356807860234",
+    "position": 1,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "924581845050458173.916039023229825096": {
+    "name": "qwe",
+    "parentID": "923979850941874217",
+    "position": 1,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "929457570761031761.916039023229825096": {
+    "name": "guild-log",
+    "parentID": "929457565727871057",
+    "position": 3,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924344675370938399.916039023229825096": {
+    "name": "terapist",
+    "parentID": "924344658576945202",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "921759772779364402.916039023229825096": {
+    "name": "tag-log",
+    "parentID": "921759729242497024",
+    "position": 1,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541453413085204.916039023229825096": {
+    "name": "Genel",
+    "position": 0,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "924039202985881700.916039023229825096": {
+    "name": "bot-komut",
+    "parentID": "922541453413085204",
+    "position": 1,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541468034428968.916039023229825096": {
+    "name": "chat",
+    "parentID": "922541453413085204",
+    "position": 0,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924345047682531368.916039023229825096": {
+    "name": "Vk",
+    "position": 10,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "929457566772248616.916039023229825096": {
+    "name": "voice-log",
+    "parentID": "929457565727871057",
+    "position": 0,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "929457565727871057.916039023229825096": {
+    "name": "Richard Log",
+    "position": 12,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922542708726304839.916039023229825096": {
+    "name": "yetkili-log",
+    "parentID": "921759729242497024",
+    "position": 17,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "929457572900139088.916039023229825096": {
+    "name": "platform-log",
+    "parentID": "929457565727871057",
+    "position": 5,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924345029726699591.916039023229825096": {
+    "name": "sç",
+    "parentID": "924344697122594847",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922402562265727026.916039023229825096": {
+    "name": "taglı-log",
+    "parentID": "921759729242497024",
+    "position": 5,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "923980005854314516.916039023229825096": {
+    "name": "Public of Monarch",
+    "parentID": "923979824207368202",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541795043319888.916039023229825096": {
+    "name": "mute-log",
+    "parentID": "921759729242497024",
+    "position": 12,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924614369780834315.916039023229825096": {
+    "name": "- 31",
+    "parentID": "924614356807860234",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "924344995010461726.916039023229825096": {
+    "name": "Dc",
+    "position": 9,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "929357518549958746.916039023229825096": {
+    "name": "platform",
+    "parentID": null,
+    "position": 5,
+    "nsfw": false,
+    "rateLimitPerUser": 10,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924344658576945202.916039023229825096": {
+    "name": "Terapist",
+    "position": 7,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "921759817972973589.916039023229825096": {
+    "name": "command-log",
+    "parentID": "921759729242497024",
+    "position": 3,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922907447612538900.916039023229825096": {
+    "name": "test-kanal",
+    "parentID": null,
+    "position": 4,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "921759793042055218.916039023229825096": {
+    "name": "ban-remove-log",
+    "parentID": "921759729242497024",
+    "position": 2,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "923980049248575578.916039023229825096": {
+    "name": "Stream kanalı oç",
+    "parentID": "923979850941874217",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "928746891611627550.916039023229825096": {
+    "name": "welkom-kanalı-dayı",
+    "parentID": null,
+    "position": 7,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924345062777823232.916039023229825096": {
+    "name": "Vk",
+    "parentID": "924345047682531368",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "921759847760924693.916039023229825096": {
+    "name": "command-block",
+    "parentID": "921759729242497024",
+    "position": 4,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541640307073134.916039023229825096": {
+    "name": "invite-log",
+    "parentID": "921759729242497024",
+    "position": 8,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922542203648245841.916039023229825096": {
+    "name": "rol-alma",
+    "parentID": null,
+    "position": 3,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924344697122594847.916039023229825096": {
+    "name": "Sorun Çözme",
+    "position": 8,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "923980125488447578.916039023229825096": {
+    "name": "sekrıt",
+    "parentID": "923979915903242250",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541549957578813.916039023229825096": {
+    "name": "message-log",
+    "parentID": "921759729242497024",
+    "position": 6,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "929457571847372800.916039023229825096": {
+    "name": "channel-log",
+    "parentID": "929457565727871057",
+    "position": 4,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "928008931475857468.916039023229825096": {
+    "name": "silme",
+    "parentID": null,
+    "position": 6,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {
+      "0": {
+        "permission": "916039023229825096",
+        "thisPermOverwrites": {
+          "VIEW_CHANNEL": true
+        }
+      }
+    }
+  },
+  "921759729242497024.916039023229825096": {
+    "name": "Moderation Logs",
+    "position": 1,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922541487185625099.916039023229825096": {
+    "name": "register-chat",
+    "parentID": "922541453413085204",
+    "position": 3,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922908932882706432.916039023229825096": {
+    "name": "channel-log",
+    "parentID": "921759729242497024",
+    "position": 18,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924614356807860234.916039023229825096": {
+    "name": "yönetim",
+    "position": 11,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "929457569653731418.916039023229825096": {
+    "name": "message-log",
+    "parentID": "929457565727871057",
+    "position": 2,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922541737291960330.916039023229825096": {
+    "name": "jail-log",
+    "parentID": "921759729242497024",
+    "position": 11,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "921681783102246942.916039023229825096": {
+    "name": "yanlıslıkla-yaptım",
+    "parentID": null,
+    "position": 0,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "922524066009735279.916039023229825096": {
+    "name": "coin-chat",
+    "parentID": "922541453413085204",
+    "position": 2,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "921682466673164298.916039023229825096": {
+    "name": "databse-log",
+    "parentID": null,
+    "position": 2,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "dq",
+    "permissionOverwrites": {}
+  },
+  "922911415935832064.916039023229825096": {
+    "name": "test",
+    "parentID": "921759729242497024",
+    "position": 20,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "923980091409698836.916039023229825096": {
+    "name": "registır ruum",
+    "parentID": "923979877445677067",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "923979915903242250.916039023229825096": {
+    "name": "Secret",
+    "position": 6,
+    "type": "category",
+    "permissionOverwrites": {}
+  },
+  "922431119352275015.916039023229825096": {
+    "name": "meeting",
+    "parentID": null,
+    "position": 1,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541708103794708.916039023229825096": {
+    "name": "ban-log",
+    "parentID": "921759729242497024",
+    "position": 10,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  },
+  "924345015914864720.916039023229825096": {
+    "name": "dc",
+    "parentID": "924344995010461726",
+    "position": 0,
+    "type": "voice",
+    "permissionOverwrites": {},
+    "userLimit": 0,
+    "bitrate": 64000
+  },
+  "922541672599007282.916039023229825096": {
+    "name": "rank-log",
+    "parentID": "921759729242497024",
+    "position": 9,
+    "nsfw": false,
+    "rateLimitPerUser": 0,
+    "type": "text",
+    "topic": "Richard~ Backup =)",
+    "permissionOverwrites": {}
+  }
+}
